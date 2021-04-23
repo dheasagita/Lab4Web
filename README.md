@@ -59,6 +59,14 @@ Tampilan Browser :
 
 ![Screenshot (58)](https://user-images.githubusercontent.com/81453793/115875096-0eb4ff00-a46f-11eb-912e-5235967952d9.png)
 
+![Screenshot (62)](https://user-images.githubusercontent.com/81453793/115876862-052c9680-a471-11eb-94a0-6dc24c19a843.png)
+
+![Screenshot (60)](https://user-images.githubusercontent.com/81453793/115876926-18d7fd00-a471-11eb-83af-474dc3469d49.png)
+
+![Screenshot (63)](https://user-images.githubusercontent.com/81453793/115876955-2097a180-a471-11eb-812c-fc84b68c0c99.png)
+
+![Screenshot (64)](https://user-images.githubusercontent.com/81453793/115876961-21c8ce80-a471-11eb-9eee-99bb6f50a31c.png)
+
 
 
 
