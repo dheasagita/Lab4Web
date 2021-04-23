@@ -8,11 +8,13 @@ NIM : 311910123
 1. Tambahkan layout untuk menu About => buat single layout yang berisi deksripsi, portofolio, dll
 
 Gambar Tampilan Menu About
+![Screenshot (59)](https://user-images.githubusercontent.com/81453793/115874865-d1e90800-a46e-11eb-8cf9-b250af154ef7.png)
 
 
 2. Tambahkan Layput untuk menu Contact => yang berisi form isisan : nama, email, message, dll.
 
 Gambar Tampilan Menu Contact
+![Screenshot (61)](https://user-images.githubusercontent.com/81453793/115874922-e3caab00-a46e-11eb-8cae-fd62f42fcf79.png)
 
 
 # Praktik Membuat Layout HTML
@@ -51,6 +53,11 @@ Code Membuat Navigasi:
 Tampilan Browser :
 ![Screenshot (55)](https://user-images.githubusercontent.com/81453793/115733429-1616d280-a3b3-11eb-8ad4-d68a67bfa58e.png)
 
+![Screenshot (56)](https://user-images.githubusercontent.com/81453793/115875075-0b217800-a46f-11eb-8d73-0c2dcbc68392.png)
+
+![Screenshot (57)](https://user-images.githubusercontent.com/81453793/115875085-0ceb3b80-a46f-11eb-97f7-dde36e0719d1.png)
+
+![Screenshot (58)](https://user-images.githubusercontent.com/81453793/115875096-0eb4ff00-a46f-11eb-912e-5235967952d9.png)
 
 
 
