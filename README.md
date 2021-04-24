@@ -1,4 +1,3 @@
-![Uploading 771233-free-download-wallpaper-backgrounds-for-computer-2558x1411-for-ios.jpg…]()
 # Lab4Web
 ## Belajar Membuat Layout HTML
 
